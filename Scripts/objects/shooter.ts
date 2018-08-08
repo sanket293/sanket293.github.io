@@ -14,6 +14,7 @@ namespace objects {
       super("Shooter");
 
       this.Start();
+
     }
 
     // private methods
